@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="9_pmdLK99luv0eA1cpyy">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LIYAv9YzyCD47ot-POBL-29" edge="1" parent="1" source="LIYAv9YzyCD47ot-POBL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LIYAv9YzyCD47ot-POBL-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Inicio" vertex="1">
+          <mxGeometry height="49" width="80" x="152" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-30" edge="1" parent="1" source="LIYAv9YzyCD47ot-POBL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LIYAv9YzyCD47ot-POBL-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ingresar un dia de la semana" vertex="1">
+          <mxGeometry height="60" width="120" x="132" y="155.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-31" edge="1" parent="1" source="LIYAv9YzyCD47ot-POBL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LIYAv9YzyCD47ot-POBL-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Convertir &quot;dia&quot; a minusculas" vertex="1">
+          <mxGeometry height="60" width="120" x="132" y="232.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-32" edge="1" parent="1" source="LIYAv9YzyCD47ot-POBL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LIYAv9YzyCD47ot-POBL-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-34" connectable="0" parent="LIYAv9YzyCD47ot-POBL-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="si" vertex="1">
+          <mxGeometry relative="1" x="0.2191" y="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-37" edge="1" parent="1" source="LIYAv9YzyCD47ot-POBL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LIYAv9YzyCD47ot-POBL-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-38" connectable="0" parent="LIYAv9YzyCD47ot-POBL-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="no" vertex="1">
+          <mxGeometry relative="1" x="0.2814" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-27" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿&quot;dia&quot; es lunes?" vertex="1">
+          <mxGeometry height="129" width="120" x="132" y="315.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-55" edge="1" parent="1" source="LIYAv9YzyCD47ot-POBL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LIYAv9YzyCD47ot-POBL-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mostrar: Es inicio de semana. Animo..." vertex="1">
+          <mxGeometry height="60" width="120" x="22" y="455.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-41" edge="1" parent="1" source="LIYAv9YzyCD47ot-POBL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LIYAv9YzyCD47ot-POBL-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-42" connectable="0" parent="LIYAv9YzyCD47ot-POBL-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="si" vertex="1">
+          <mxGeometry relative="1" x="0.0707" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-44" edge="1" parent="1" source="LIYAv9YzyCD47ot-POBL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LIYAv9YzyCD47ot-POBL-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-45" connectable="0" parent="LIYAv9YzyCD47ot-POBL-44" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="no" vertex="1">
+          <mxGeometry relative="1" x="0.1692" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-36" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿&quot;dia&quot; es viernes?" vertex="1">
+          <mxGeometry height="129" width="120" x="232" y="455.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-54" edge="1" parent="1" source="LIYAv9YzyCD47ot-POBL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="LIYAv9YzyCD47ot-POBL-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mostrar: Llgo el viernes. Ya casi podemos descansar" vertex="1">
+          <mxGeometry height="60" width="120" x="148" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-48" edge="1" parent="1" source="LIYAv9YzyCD47ot-POBL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LIYAv9YzyCD47ot-POBL-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-56" connectable="0" parent="LIYAv9YzyCD47ot-POBL-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="si" vertex="1">
+          <mxGeometry relative="1" x="-0.29" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-49" edge="1" parent="1" source="LIYAv9YzyCD47ot-POBL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LIYAv9YzyCD47ot-POBL-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-57" connectable="0" parent="LIYAv9YzyCD47ot-POBL-49" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="no" vertex="1">
+          <mxGeometry relative="1" x="-0.1688" y="3" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-43" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="¿&quot;dia&quot; es sabado o domingo?" vertex="1">
+          <mxGeometry height="129" width="120" x="332" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-51" edge="1" parent="1" source="LIYAv9YzyCD47ot-POBL-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="LIYAv9YzyCD47ot-POBL-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mostrar: Es fin de semana. Momento de descansar" vertex="1">
+          <mxGeometry height="60" width="120" x="212" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-52" edge="1" parent="1" source="LIYAv9YzyCD47ot-POBL-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="LIYAv9YzyCD47ot-POBL-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mostrar: Es un dia entre semana comun y corriente :(" vertex="1">
+          <mxGeometry height="60" width="120" x="452" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fin" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="LIYAv9YzyCD47ot-POBL-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ejercicio 3." vertex="1">
+          <mxGeometry height="40" width="80" x="357" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
