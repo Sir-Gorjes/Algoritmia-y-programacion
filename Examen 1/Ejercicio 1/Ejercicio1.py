@@ -3,6 +3,7 @@ total = 0
 # creo variable en true para que mientras este en true se pueda ordenar con un while
 pedir = True
 
+print("¡Bienvenido a El Gordo Gorjes (ElGGs)!")
 print("\n--- MENÚ DE COMIDA RÁPIDA ---")
 print("\n1. Hamburguesa Especial - $15.000")
 print("\n2. Perro Caliente - $10.000")
@@ -16,9 +17,9 @@ print("\n6. Finalizar pedido y pagar")
 
 while pedir:
     # creo una vaiable en la que el usuario pueda ingresar las opciones del menu y que la vea reflejada con Print
-    opcion = input("\nIngrese el número de la opción que desea pedir: ")
+    opcion = input("\nIngrese el número de la opción que desea pedir: ") 
 
-    # y que dependiendo de la opcion que elija, se le sume el monto a la variable "Total" hasta que pedir sea false
+    # y que dependiendo de la opcion que elija, se le sume el monto a la variable "Total" hasta que pedir sea false para cortar el ciclo
     if opcion == "1":
         total = total + 15000
         print("-> Agregado: Hamburguesa Especial ($15.000)")
